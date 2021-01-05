@@ -1,2 +1,2 @@
-# Game
-This is my first fullstack Game!!!
+# TailwindPLAY
+Learning Tailwind CSS and practicing it here.
