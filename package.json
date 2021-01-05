@@ -1,0 +1,26 @@
+{
+  "name": "tailwindplay",
+  "version": "1.0.0",
+  "description": "Learning Tailwind CSS",
+  "main": "app.js",
+  "scripts": {
+    "build-css": "npx tailwindcss build src/styles.css -o public/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SilvenLEAF/TailwindPLAY.git"
+  },
+  "keywords": [
+    "SilvenLEAF",
+    "Tailwind"
+  ],
+  "author": "SilvenLEAF",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SilvenLEAF/TailwindPLAY/issues"
+  },
+  "homepage": "https://github.com/SilvenLEAF/TailwindPLAY#readme",
+  "dependencies": {
+    "tailwindcss": "^2.0.2"
+  }
+}
