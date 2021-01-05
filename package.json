@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/SilvenLEAF/TailwindPLAY#readme",
   "dependencies": {
-    "tailwindcss": "^2.0.2"
+    "tailwindcss": "^1.4.6"
   }
 }
